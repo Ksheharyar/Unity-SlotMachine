@@ -11,7 +11,12 @@ Open:
 
 Build/index.html
 
-OR upload to GitHub Pages to play in browser.
+OR 
+
+## Play Online
+
+Playable WebGL version:
+https://ksheharyar.github.io/Unity-SlotMachine/
 
 ## Features Implemented
 
@@ -28,3 +33,4 @@ OR upload to GitHub Pages to play in browser.
 
 The slot reels were implemented using vertical symbol containers that loop during motion and snap into grid alignment when stopping.  
 A forced-symbol system ensures controlled probability for wins while maintaining randomness for gameplay feel.
+
