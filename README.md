@@ -1,36 +1,168 @@
-# Unity Slot Machine Game
+# 🎰 Unity Slot Machine — Gameplay Programming Assignment
 
-## Game Overview
-This is a 2D slot machine game created in Unity.  
-Players press the spin button to rotate three reels.  
-Matching symbols in the center row results in a win popup with sound effects.
+**Unity Slot Machine** is a 2D slot machine gameplay prototype built in Unity where players spin three reels and win when matching symbols align on the center row.
+This project demonstrates UI systems, reel animation logic, controlled probability mechanics, scene navigation flow, and WebGL deployment.
 
-## Instructions to Run WebGL Build
+The project was developed as part of a gameplay programming assignment and showcases structured gameplay scripting, modular scene management, and browser-playable build integration.
 
-Open:
+---
 
-Build/index.html
+## 🎮 Play the Game (Browser Version)
 
-OR 
+Play instantly in your browser:
 
-## Play Online
-
-Playable WebGL version:
 https://ksheharyar.github.io/Unity-SlotMachine/
 
-## Features Implemented
+---
 
-- Reel spin animation
-- 25% controlled win probability system
-- Win popup screen
-- Main Menu navigation
-- Retry option
-- Exit option
-- Sound effects (spin / stop / win)
-- WebGL build included
+## 💻 Download / Run Unity Project
 
-## Thought Process / Approach
+Full Unity source project included inside repository:
 
-The slot reels were implemented using vertical symbol containers that loop during motion and snap into grid alignment when stopping.  
-A forced-symbol system ensures controlled probability for wins while maintaining randomness for gameplay feel.
+```
+Assets
+Packages
+ProjectSettings
+```
 
+Open using:
+
+```
+Unity Hub → Add Project → Open Folder
+```
+
+Unity Version Recommended:
+
+```
+Unity 6.3 LTS (6000.3.14f1)
+```
+
+---
+
+## 🧠 Features Implemented
+
+### Reel Spin System
+
+* Three independent spinning reels
+* Smooth vertical looping reel animation
+* Grid snapping alignment after spin stop
+* Sequential reel stopping effect
+* Center-line symbol detection logic
+
+---
+
+### Win Detection System
+
+* Matching-symbol comparison on middle row
+* Controlled probability system (25% win chance)
+* Automatic win popup display
+* Retry option after win
+
+---
+
+### Scene Navigation Flow
+
+* Main Menu scene
+* Play button functionality
+* Retry button functionality
+* Return to Main Menu option
+* Exit button integration
+
+---
+
+### Audio Integration
+
+* Reel spinning loop sound
+* Reel stop click sound
+* Win celebration sound effect
+
+---
+
+### UI System
+
+* Main Menu interface
+* Game scene UI layout
+* Win popup overlay
+* Button interaction system
+* TextMeshPro typography usage
+
+---
+
+### Extra Feature Added
+
+* Controlled forced-symbol system ensures predictable win probability while maintaining randomness feel
+
+---
+
+## 🎯 Controls
+
+Gameplay interaction:
+
+```
+Mouse Click → Spin Button
+```
+
+Menu navigation:
+
+```
+Mouse Click → UI Buttons
+```
+
+---
+
+## 🛠 Built With
+
+* Unity 6.3 LTS
+* C#
+* TextMeshPro UI
+* Scene Management System
+* Audio Source Controller System
+* WebGL Deployment Pipeline
+
+---
+
+## 📁 Project Structure
+
+Unity source project folders included:
+
+```
+Assets/
+Packages/
+ProjectSettings/
+```
+
+Playable browser build included:
+
+```
+docs/
+```
+
+(WebGL build deployed using GitHub Pages)
+
+---
+
+## 📺 Assignment Requirements Covered
+
+✔ Reel spinning animation
+✔ Center-line symbol detection
+✔ Win condition logic
+✔ Win popup UI
+✔ Retry option
+✔ Main Menu navigation
+✔ Exit button functionality
+✔ Sound effects integration
+✔ WebGL playable browser build
+✔ Organized Unity project structure
+✔ GitHub repository with commit history
+
+---
+
+## 👤 Developer
+
+Mohd Sheharyar
+
+Portfolio:
+https://new.express.adobe.com/webpage/nYDj3iJ0MEw2z
+
+LinkedIn:
+https://www.linkedin.com/in/mohd-sheharyar
