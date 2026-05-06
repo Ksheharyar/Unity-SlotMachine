@@ -27,8 +27,10 @@ ProjectSettings
 
 Open using:
 
-```
+...
+
 Unity Hub → Add Project → Open Folder
+
 ```
 
 Unity Version Recommended:
