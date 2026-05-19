@@ -1,4 +1,4 @@
-# 🎰 Unity Slot Machine — Gameplay Programming Assignment
+# 🎰 Unity Slot Machine  — Gameplay Programming Assignment
  
 **Unity Slot Machine** is a 2D slot machine gameplay prototype built in Unity where players spin three reels and win when matching symbols align on the center row.
 This project demonstrates UI systems, reel animation logic, controlled probability mechanics, scene navigation flow, and WebGL deployment.
