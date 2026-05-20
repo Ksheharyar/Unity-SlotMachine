@@ -7,7 +7,7 @@ The project was developed as part of a gameplay programming assignment and showc
 
 ---
 
-## 🎮 Play the Game (Browser Version)
+## 🎮 Play the Game (Browser Version)  
 
 Play instantly in your browser:
 
