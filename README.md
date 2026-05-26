@@ -13,7 +13,7 @@ Play instantly in your browser:
 
 https://ksheharyar.github.io/Unity-SlotMachine/
 
----
+-------------------------------------------------------------
 
 ## 💻 Download / Run Unity Project
 
