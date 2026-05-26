@@ -5,7 +5,7 @@ This project demonstrates UI systems, reel animation logic, controlled probabili
 
 The project was developed as part of a gameplay programming assignment and showcases structured gameplay scripting, modular scene management, and browser-playable build integration.
 
----
+---------------------------------------------------------------
 
 ## 🎮 Play the Game (Browser Version)  
 
