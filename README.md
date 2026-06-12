@@ -15,7 +15,7 @@ https://ksheharyar.github.io/Unity-SlotMachine/
 
 -------------------------------------------------------------
 
-## 💻 Download / Run Unity Project
+## 💻 Download / Run Unity Project 
 
 Full Unity source project included inside repository:
 
