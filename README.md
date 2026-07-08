@@ -12,7 +12,7 @@ The project was developed as part of a gameplay programming assignment and showc
 Play instantly in your browser: 
  
 https://ksheharyar.github.io/Unity-SlotMachine/
-
+ 
 -------------------------------------------------------------
 
 ## 💻 Download / Run Unity Project 
