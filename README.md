@@ -20,7 +20,7 @@ https://ksheharyar.github.io/Unity-SlotMachine/
 Full Unity source project included inside repository:  
   
 ```
-Assets
+Assets 
 Packages
 ProjectSettings
 ``
